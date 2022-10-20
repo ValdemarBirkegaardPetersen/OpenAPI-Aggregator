@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgUHUtRWR1t8Q5OzXHGgQvDbAWYBLykGZNghkf3wiHD4JfOp+4Y3Byg9Pj8VgFOCfcgUZmudtp5OvNze6+qRRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DjVlad\\source\\repos\\ConsoleApp2\\OpenAPI-Aggregator\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DjVlad\\.nuget\\packages\\microsoft.openapi\\1.4.2\\microsoft.openapi.1.4.2.nupkg.sha512",
+    "C:\\Users\\DjVlad\\.nuget\\packages\\microsoft.openapi.readers\\1.4.1\\microsoft.openapi.readers.1.4.1.nupkg.sha512",
+    "C:\\Users\\DjVlad\\.nuget\\packages\\sharpyaml\\2.1.0\\sharpyaml.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
